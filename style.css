@@ -1,0 +1,17 @@
+.btnstart {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+button {
+    padding: 20px;
+    border-radius: 15px solid black;
+    color: black;
+    background-color: gray;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}

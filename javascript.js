@@ -1,7 +1,7 @@
 
 
 
-        let humanScore = 0;
+/*         let humanScore = 0;
         let computerScore = 0;
 
 
@@ -70,4 +70,10 @@
         }
     };
 
-     playGame();
+     playGame(); */
+
+     const btn = document.querySelector("#btn");
+
+     btn.addEventListener ("click", (e) => {
+        alert("Button clicked Atttention!");
+     });
